@@ -1,3 +1,3 @@
 module github.com/eaojunior/moip-sdk-go
 
-go 1.15
+go 1.19
