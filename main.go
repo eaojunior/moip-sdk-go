@@ -2,7 +2,7 @@ package moipsdkgo
 
 import "fmt"
 
-func initializer() string {
+func Initializer() string {
 	fmt.Printf("In moipsdkgo package. \n")
 
 	return_string := "Module : go_modules."
